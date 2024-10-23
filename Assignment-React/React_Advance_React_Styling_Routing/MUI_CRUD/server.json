@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "title": "React JS",
+      "description": "This is Simple Ui Library\n ",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Node JS",
+      "description": "It is backend JS Framework"
+    },
+    {
+      "id": "3",
+      "title": "Angular",
+      "description": "This is Frontend JS Framework"
+    },
+    {
+      "id": "4",
+      "title": "Vue JS",
+      "description": "Another Framework for JS"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.explore-menu h1{
+  color: #262626;
+  font-weight: 500;
+}
+
+.explore-menu-list::-webkit-scrollbar{
+  display: none;
+}
+
+.explore-menu-item .active{
+  border: 6px solid tomato;
+  padding: 2px;
+}
